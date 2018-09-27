@@ -1,0 +1,1 @@
+Catraca filter. All months are separated in directories, files are determined by day and by time period (1_breakfest, 2_lunch, 3_dinner)
